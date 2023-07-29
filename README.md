@@ -1,4 +1,4 @@
-## Welocome!
+## Welcome!
 - Let me introduce myself as Diego, a mechatronics student.
 - I'm a huge enthusiast of ML but until now I had not ventured enough into it.
 - Nowadays I am reinforcing my coding skill while building a portfolio.
